@@ -1,19 +1,53 @@
 {
   "vaultName": "Collegamenti Maturità",
-  "lastExport": 1730482440753,
+  "lastExport": 1730829644676,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "Agganci/Prigioni.md",
+    "Educazione Civica/Film Campo di Battaglia.md",
+    "GPOI/Elementi di economia e organizzazione aziendale - Le strutture organizzative.md",
+    "GPOI/L’informazione e l’organizzazione.md",
+    "GPOI/Marketing di base e rapporto con i fornitori, outsourcing.md",
+    "GPOI/Micro e macrostruttura.md",
+    "Informatica/Linguaggio PHP.md",
+    "Informatica/Modello ER.md",
     "Inglese/Oscar Wilde, The Picture of Dorian Gray.md",
     "Inglese/The Suffragettes Movement.md",
     "Inglese/XIX Century in UK.md",
+    "Italiano/Emile Zola.md",
+    "Italiano/Giosue Carducci.md",
+    "Italiano/Giovanni Pascoli.md",
+    "Italiano/Giovanni Verga.md",
+    "Italiano/Il romanzo di fine Ottocento in Europa.md",
+    "Italiano/La nascita della poesia moderna.md",
+    "Italiano/Lev Tolstoj.md",
+    "Matematica/Derivate.md",
+    "Matematica/Integrali.md",
     "Resources/Oscar Wilde.pdf",
     "Resources/The Suffragettes.pdf",
     "Resources/XIX CENTURY IN THE UK.pdf",
+    "Sistemi e reti/Funzioni.md",
+    "Sistemi e reti/Modello ISO-OSI.md",
+    "Sistemi e reti/Modello TCP-IP.md",
+    "Sistemi e reti/Multiprexing e Demultiprexing.md",
+    "Sistemi e reti/NAT e PAT.md",
+    "Sistemi e reti/Pacchetti ICMP.md",
+    "Sistemi e reti/Protocolli IGP.md",
+    "Sistemi e reti/Server SMTP.md",
+    "Sistemi e reti/Wireshark.md",
+    "Storia/Gli Stati Unici nel Secondo '800.md",
+    "Storia/Governo Giolitti.md",
+    "Storia/L'Europa nel Secondo '800.md",
+    "Storia/Patto Gentiloni.md",
+    "TPSIT/Sistemi Distribuiti.md",
+    "TPSIT/Socket.md",
     "index.md",
     "lib/media/oscar-wilde.pdf",
+    "lib/media/the-suffragettes.pdf",
+    "lib/media/xix-century-in-the-uk.pdf",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -29,7 +63,6 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -41,10 +74,9 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css",
-    "lib/media/the-suffragettes.pdf",
-    "lib/media/xix-century-in-the-uk.pdf"
+    "lib/styles/main-styles.css"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -62,7 +94,6 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -74,29 +105,30 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
     "Inglese/Oscar Wilde, The Picture of Dorian Gray.md": {
-      "modifiedTime": 1730482440753,
-      "sourceSize": 163,
+      "modifiedTime": 1730829644676,
+      "sourceSize": 330,
       "exportedPath": "inglese/oscar-wilde,-the-picture-of-dorian-gray.html",
       "dependencies": [
         "lib/media/oscar-wilde.pdf"
       ]
     },
     "Inglese/The Suffragettes Movement.md": {
-      "modifiedTime": 1730481553967,
-      "sourceSize": 25,
+      "modifiedTime": 1730829644676,
+      "sourceSize": 192,
       "exportedPath": "inglese/the-suffragettes-movement.html",
       "dependencies": [
         "lib/media/the-suffragettes.pdf"
       ]
     },
     "Inglese/XIX Century in UK.md": {
-      "modifiedTime": 1730481553967,
-      "sourceSize": 30,
+      "modifiedTime": 1730829644676,
+      "sourceSize": 279,
       "exportedPath": "inglese/xix-century-in-uk.html",
       "dependencies": [
         "lib/media/xix-century-in-the-uk.pdf"
@@ -121,109 +153,109 @@
       "dependencies": []
     },
     "lib/media/oscar-wilde.pdf": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 11087436,
       "exportedPath": "lib/media/oscar-wilde.pdf",
       "dependencies": []
     },
     "lib/media/the-suffragettes.pdf": {
-      "modifiedTime": 1730481553967,
+      "modifiedTime": 1730829644676,
       "sourceSize": 85129,
       "exportedPath": "lib/media/the-suffragettes.pdf",
       "dependencies": []
     },
     "lib/media/xix-century-in-the-uk.pdf": {
-      "modifiedTime": 1730481553967,
+      "modifiedTime": 1730829644676,
       "sourceSize": 11533999,
       "exportedPath": "lib/media/xix-century-in-the-uk.pdf",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -235,87 +267,285 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1730482440753,
-      "sourceSize": 4413,
+      "modifiedTime": 1730829644676,
+      "sourceSize": 21081,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1730482440753,
-      "sourceSize": 546,
+      "modifiedTime": 1730829644676,
+      "sourceSize": 3264,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1730482440753,
-      "sourceSize": 130471,
+      "modifiedTime": 1730829644676,
+      "sourceSize": 131134,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1730482440753,
+      "modifiedTime": 1730829644676,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1730482440753,
-      "sourceSize": 218,
+      "modifiedTime": 1730829644676,
+      "sourceSize": 1116,
       "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "Agganci/Prigioni.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 246,
+      "exportedPath": "agganci/prigioni.html",
+      "dependencies": []
+    },
+    "Educazione Civica/Film Campo di Battaglia.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "educazione-civica/film-campo-di-battaglia.html",
+      "dependencies": []
+    },
+    "GPOI/Elementi di economia e organizzazione aziendale - Le strutture organizzative.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "gpoi/elementi-di-economia-e-organizzazione-aziendale-le-strutture-organizzative.html",
+      "dependencies": []
+    },
+    "GPOI/L’informazione e l’organizzazione.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "gpoi/l’informazione-e-l’organizzazione.html",
+      "dependencies": []
+    },
+    "GPOI/Marketing di base e rapporto con i fornitori, outsourcing.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "gpoi/marketing-di-base-e-rapporto-con-i-fornitori,-outsourcing.html",
+      "dependencies": []
+    },
+    "GPOI/Micro e macrostruttura.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "gpoi/micro-e-macrostruttura.html",
+      "dependencies": []
+    },
+    "Informatica/Linguaggio PHP.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "informatica/linguaggio-php.html",
+      "dependencies": []
+    },
+    "Informatica/Modello ER.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "informatica/modello-er.html",
+      "dependencies": []
+    },
+    "Italiano/Emile Zola.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "italiano/emile-zola.html",
+      "dependencies": []
+    },
+    "Italiano/Giosue Carducci.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "italiano/giosue-carducci.html",
+      "dependencies": []
+    },
+    "Italiano/Giovanni Pascoli.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "italiano/giovanni-pascoli.html",
+      "dependencies": []
+    },
+    "Italiano/Giovanni Verga.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "italiano/giovanni-verga.html",
+      "dependencies": []
+    },
+    "Italiano/Il romanzo di fine Ottocento in Europa.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "italiano/il-romanzo-di-fine-ottocento-in-europa.html",
+      "dependencies": []
+    },
+    "Italiano/La nascita della poesia moderna.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "italiano/la-nascita-della-poesia-moderna.html",
+      "dependencies": []
+    },
+    "Italiano/Lev Tolstoj.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "italiano/lev-tolstoj.html",
+      "dependencies": []
+    },
+    "Matematica/Derivate.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "matematica/derivate.html",
+      "dependencies": []
+    },
+    "Matematica/Integrali.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "matematica/integrali.html",
+      "dependencies": []
+    },
+    "Sistemi e reti/Funzioni.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "sistemi-e-reti/funzioni.html",
+      "dependencies": []
+    },
+    "Sistemi e reti/Modello ISO-OSI.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "sistemi-e-reti/modello-iso-osi.html",
+      "dependencies": []
+    },
+    "Sistemi e reti/Modello TCP-IP.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "sistemi-e-reti/modello-tcp-ip.html",
+      "dependencies": []
+    },
+    "Sistemi e reti/Multiprexing e Demultiprexing.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "sistemi-e-reti/multiprexing-e-demultiprexing.html",
+      "dependencies": []
+    },
+    "Sistemi e reti/NAT e PAT.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "sistemi-e-reti/nat-e-pat.html",
+      "dependencies": []
+    },
+    "Sistemi e reti/Pacchetti ICMP.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "sistemi-e-reti/pacchetti-icmp.html",
+      "dependencies": []
+    },
+    "Sistemi e reti/Protocolli IGP.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "sistemi-e-reti/protocolli-igp.html",
+      "dependencies": []
+    },
+    "Sistemi e reti/Server SMTP.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "sistemi-e-reti/server-smtp.html",
+      "dependencies": []
+    },
+    "Sistemi e reti/Wireshark.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "sistemi-e-reti/wireshark.html",
+      "dependencies": []
+    },
+    "Storia/Gli Stati Unici nel Secondo '800.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "storia/gli-stati-unici-nel-secondo-'800.html",
+      "dependencies": []
+    },
+    "Storia/Governo Giolitti.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "storia/governo-giolitti.html",
+      "dependencies": []
+    },
+    "Storia/L'Europa nel Secondo '800.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "storia/l'europa-nel-secondo-'800.html",
+      "dependencies": []
+    },
+    "Storia/Patto Gentiloni.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "storia/patto-gentiloni.html",
+      "dependencies": []
+    },
+    "TPSIT/Sistemi Distribuiti.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "tpsit/sistemi-distribuiti.html",
+      "dependencies": []
+    },
+    "TPSIT/Socket.md": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 0,
+      "exportedPath": "tpsit/socket.html",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1730829644676,
+      "sourceSize": 719576,
+      "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     }
   }
