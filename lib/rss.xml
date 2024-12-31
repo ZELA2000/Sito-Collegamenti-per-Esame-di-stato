@@ -1,49 +1,83 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Collegamenti Maturità]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Collegamenti Maturità</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 02 Dec 2024 18:15:04 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 02 Dec 2024 18:15:03 GMT</pubDate><copyright><![CDATA[Gabriele Bovina]]></copyright><ttl>60</ttl><dc:creator>Gabriele Bovina</dc:creator><item><title><![CDATA[Inglese]]></title><description><![CDATA[ 
- <br><br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Collegamenti Maturità]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Collegamenti Maturità</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 31 Dec 2024 12:41:46 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 31 Dec 2024 12:41:44 GMT</pubDate><copyright><![CDATA[Gabriele Bovina]]></copyright><ttl>60</ttl><dc:creator>Gabriele Bovina</dc:creator><item><title><![CDATA[Educazione Civica]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="118" href="educazione-civica\118.html" class="internal-link" target="_self" rel="noopener nofollow">118</a>
+<br><a data-href="AVIS" href="educazione-civica\avis.html" class="internal-link" target="_self" rel="noopener nofollow">AVIS</a>
+<br><a data-href="Film Campo di Battaglia" href="educazione-civica\film-campo-di-battaglia.html" class="internal-link" target="_self" rel="noopener nofollow">Film Campo di Battaglia</a>
+]]></description><link>educazione-civica\educazione-civica.html</link><guid isPermaLink="false">Educazione Civica/Educazione Civica.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 12:03:51 GMT</pubDate></item><item><title><![CDATA[Ginnastica]]></title><description><![CDATA[ 
+ ]]></description><link>ginnastica\ginnastica.html</link><guid isPermaLink="false">Ginnastica/Ginnastica.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 12:37:09 GMT</pubDate></item><item><title><![CDATA[GPOI]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Elementi di economia e organizzazione aziendale - Le strutture organizzative" href="gpoi\elementi-di-economia-e-organizzazione-aziendale-le-strutture-organizzative.html" class="internal-link" target="_self" rel="noopener nofollow">Elementi di economia e organizzazione aziendale - Le strutture organizzative</a>
+<br><a data-href="L’informazione e l’organizzazione" href="gpoi\l’informazione-e-l’organizzazione.html" class="internal-link" target="_self" rel="noopener nofollow">L’informazione e l’organizzazione</a>
+<br><a data-href="Le prestazioni dei processi aziendali" href="gpoi\le-prestazioni-dei-processi-aziendali.html" class="internal-link" target="_self" rel="noopener nofollow">Le prestazioni dei processi aziendali</a>
+<br><a data-href="Marketing di base e rapporto con i fornitori, outsourcing" href="gpoi\marketing-di-base-e-rapporto-con-i-fornitori,-outsourcing.html" class="internal-link" target="_self" rel="noopener nofollow">Marketing di base e rapporto con i fornitori, outsourcing</a>
+<br><a data-href="Micro e macrostruttura" href="gpoi\micro-e-macrostruttura.html" class="internal-link" target="_self" rel="noopener nofollow">Micro e macrostruttura</a>
+]]></description><link>gpoi\gpoi.html</link><guid isPermaLink="false">GPOI/GPOI.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 12:29:34 GMT</pubDate></item><item><title><![CDATA[Le prestazioni dei processi aziendali]]></title><description><![CDATA[ 
+ ]]></description><link>gpoi\le-prestazioni-dei-processi-aziendali.html</link><guid isPermaLink="false">GPOI/Le prestazioni dei processi aziendali.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 11:53:38 GMT</pubDate></item><item><title><![CDATA[Informatica]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Linguaggio PHP" href="informatica\linguaggio-php.html" class="internal-link" target="_self" rel="noopener nofollow">Linguaggio PHP</a>
+<br><a data-href="Modello ER" href="informatica\modello-er.html" class="internal-link" target="_self" rel="noopener nofollow">Modello ER</a>
+<br><a data-href="Modello Relazionale" href="informatica\modello-relazionale.html" class="internal-link" target="_self" rel="noopener nofollow">Modello Relazionale</a>
+<br><a data-href="PhpMyAdmin" href="informatica\phpmyadmin.html" class="internal-link" target="_self" rel="noopener nofollow">PhpMyAdmin</a>
+]]></description><link>informatica\informatica.html</link><guid isPermaLink="false">Informatica/Informatica.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 12:30:20 GMT</pubDate></item><item><title><![CDATA[Modello Relazionale]]></title><description><![CDATA[ 
+ ]]></description><link>informatica\modello-relazionale.html</link><guid isPermaLink="false">Informatica/Modello Relazionale.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 11:53:52 GMT</pubDate></item><item><title><![CDATA[PhpMyAdmin]]></title><description><![CDATA[ 
+ ]]></description><link>informatica\phpmyadmin.html</link><guid isPermaLink="false">Informatica/PhpMyAdmin.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 11:53:44 GMT</pubDate></item><item><title><![CDATA[Inglese]]></title><description><![CDATA[ 
+ <br>
 <br><a data-href="Oscar Wilde, The Picture of Dorian Gray" href="inglese\oscar-wilde,-the-picture-of-dorian-gray.html" class="internal-link" target="_self" rel="noopener nofollow">Oscar Wilde, The Picture of Dorian Gray</a>
+<br><a data-href="The American Civil Rights movement" href="inglese\the-american-civil-rights-movement.html" class="internal-link" target="_self" rel="noopener nofollow">The American Civil Rights movement</a>
 <br><a data-href="The Suffragettes Movement" href="inglese\the-suffragettes-movement.html" class="internal-link" target="_self" rel="noopener nofollow">The Suffragettes Movement</a>
 <br><a data-href="XIX Century in UK" href="inglese\xix-century-in-uk.html" class="internal-link" target="_self" rel="noopener nofollow">XIX Century in UK</a>
-<br><br>
-<br><a data-href="Film Campo di Battaglia" href="educazione-civica\film-campo-di-battaglia.html" class="internal-link" target="_self" rel="noopener nofollow">Film Campo di Battaglia</a>
-<br><a data-href="The Suffragettes Movement" href="inglese\the-suffragettes-movement.html" class="internal-link" target="_self" rel="noopener nofollow">The Suffragettes Movement</a>
-<br><br>
-<br><a data-href="Marketing di base e rapporto con i fornitori, outsourcing" href="gpoi\marketing-di-base-e-rapporto-con-i-fornitori,-outsourcing.html" class="internal-link" target="_self" rel="noopener nofollow">Marketing di base e rapporto con i fornitori, outsourcing</a>
-<br><a data-href="Elementi di economia e organizzazione aziendale - Le strutture organizzative" href="gpoi\elementi-di-economia-e-organizzazione-aziendale-le-strutture-organizzative.html" class="internal-link" target="_self" rel="noopener nofollow">Elementi di economia e organizzazione aziendale - Le strutture organizzative</a>
-<br><a data-href="Micro e macrostruttura" href="gpoi\micro-e-macrostruttura.html" class="internal-link" target="_self" rel="noopener nofollow">Micro e macrostruttura</a>
-<br><a data-href="L’informazione e l’organizzazione" href="gpoi\l’informazione-e-l’organizzazione.html" class="internal-link" target="_self" rel="noopener nofollow">L’informazione e l’organizzazione</a>
-<br><br>
-<br><a data-href="Modello ER" href="informatica\modello-er.html" class="internal-link" target="_self" rel="noopener nofollow">Modello ER</a>
-<br><a data-href="Linguaggio PHP" href="informatica\linguaggio-php.html" class="internal-link" target="_self" rel="noopener nofollow">Linguaggio PHP</a>
-<br><br>
-<br><a data-href="Giovanni Verga" href="italiano\giovanni-verga.html" class="internal-link" target="_self" rel="noopener nofollow">Giovanni Verga</a>
-<br><a data-href="Giovanni Pascoli" href="italiano\giovanni-pascoli.html" class="internal-link" target="_self" rel="noopener nofollow">Giovanni Pascoli</a>
-<br><a data-href="Lev Tolstoj" href="italiano\lev-tolstoj.html" class="internal-link" target="_self" rel="noopener nofollow">Lev Tolstoj</a>
+]]></description><link>inglese\inglese.html</link><guid isPermaLink="false">Inglese/Inglese.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 12:02:23 GMT</pubDate></item><item><title><![CDATA[The American Civil Rights movement]]></title><description><![CDATA[ 
+ ]]></description><link>inglese\the-american-civil-rights-movement.html</link><guid isPermaLink="false">Inglese/The American Civil Rights movement.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 11:53:16 GMT</pubDate></item><item><title><![CDATA[Il Futurismo]]></title><description><![CDATA[ 
+ ]]></description><link>italiano\il-futurismo.html</link><guid isPermaLink="false">Italiano/Il Futurismo.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 11:54:12 GMT</pubDate></item><item><title><![CDATA[Italiano]]></title><description><![CDATA[ 
+ <br>
 <br><a data-href="Emile Zola" href="italiano\emile-zola.html" class="internal-link" target="_self" rel="noopener nofollow">Emile Zola</a>
-<br><a data-href="Il romanzo di fine Ottocento in Europa" href="italiano\il-romanzo-di-fine-ottocento-in-europa.html" class="internal-link" target="_self" rel="noopener nofollow">Il romanzo di fine Ottocento in Europa</a>
 <br><a data-href="Giosue Carducci" href="italiano\giosue-carducci.html" class="internal-link" target="_self" rel="noopener nofollow">Giosue Carducci</a>
+<br><a data-href="Giovanni Pascoli" href="italiano\giovanni-pascoli.html" class="internal-link" target="_self" rel="noopener nofollow">Giovanni Pascoli</a>
+<br><a data-href="Giovanni Verga" href="italiano\giovanni-verga.html" class="internal-link" target="_self" rel="noopener nofollow">Giovanni Verga</a>
+<br><a data-href="Il Futurismo" href="italiano\il-futurismo.html" class="internal-link" target="_self" rel="noopener nofollow">Il Futurismo</a>
+<br><a data-href="Il romanzo di fine Ottocento in Europa" href="italiano\il-romanzo-di-fine-ottocento-in-europa.html" class="internal-link" target="_self" rel="noopener nofollow">Il romanzo di fine Ottocento in Europa</a>
 <br><a data-href="La nascita della poesia moderna" href="italiano\la-nascita-della-poesia-moderna.html" class="internal-link" target="_self" rel="noopener nofollow">La nascita della poesia moderna</a>
-<br><br>
-<br><a data-href="Integrali" href="matematica\integrali.html" class="internal-link" target="_self" rel="noopener nofollow">Integrali</a>
-<br><a data-href="Funzioni" href="sistemi-e-reti\funzioni.html" class="internal-link" target="_self" rel="noopener nofollow">Funzioni</a>
+<br><a data-href="Lev Tolstoj" href="italiano\lev-tolstoj.html" class="internal-link" target="_self" rel="noopener nofollow">Lev Tolstoj</a>
+]]></description><link>italiano\italiano.html</link><guid isPermaLink="false">Italiano/Italiano.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 12:33:06 GMT</pubDate></item><item><title><![CDATA[Funzioni]]></title><description><![CDATA[ 
+ ]]></description><link>matematica\funzioni.html</link><guid isPermaLink="false">Matematica/Funzioni.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:53:17 GMT</pubDate></item><item><title><![CDATA[Matematica]]></title><description><![CDATA[ 
+ <br>
 <br><a data-href="Derivate" href="matematica\derivate.html" class="internal-link" target="_self" rel="noopener nofollow">Derivate</a>
-<br><br>
-<br><a data-href="Server SMTP" href="sistemi-e-reti\server-smtp.html" class="internal-link" target="_self" rel="noopener nofollow">Server SMTP</a>
-<br><a data-href="Pacchetti ICMP" href="sistemi-e-reti\pacchetti-icmp.html" class="internal-link" target="_self" rel="noopener nofollow">Pacchetti ICMP</a>
-<br><a data-href="NAT e PAT" href="sistemi-e-reti\nat-e-pat.html" class="internal-link" target="_self" rel="noopener nofollow">NAT e PAT</a>
-<br><a data-href="Multiprexing e Demultiprexing" href="sistemi-e-reti\multiprexing-e-demultiprexing.html" class="internal-link" target="_self" rel="noopener nofollow">Multiprexing e Demultiprexing</a>
-<br><a data-href="Modello TCP-IP" href="sistemi-e-reti\modello-tcp-ip.html" class="internal-link" target="_self" rel="noopener nofollow">Modello TCP-IP</a>
+<br><a data-href="Integrali" href="matematica\integrali.html" class="internal-link" target="_self" rel="noopener nofollow">Integrali</a>
+<br><a data-href="Funzioni" href="matematica\funzioni.html" class="internal-link" target="_self" rel="noopener nofollow">Funzioni</a>
+]]></description><link>matematica\matematica.html</link><guid isPermaLink="false">Matematica/Matematica.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 12:33:57 GMT</pubDate></item><item><title><![CDATA[Sistemi e reti]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="DHCP" href="sistemi-e-reti\dhcp.html" class="internal-link" target="_self" rel="noopener nofollow">DHCP</a>
+<br><a data-href="DNS" href="sistemi-e-reti\dns.html" class="internal-link" target="_self" rel="noopener nofollow">DNS</a>
 <br><a data-href="Modello ISO-OSI" href="sistemi-e-reti\modello-iso-osi.html" class="internal-link" target="_self" rel="noopener nofollow">Modello ISO-OSI</a>
+<br><a data-href="Modello TCP-IP" href="sistemi-e-reti\modello-tcp-ip.html" class="internal-link" target="_self" rel="noopener nofollow">Modello TCP-IP</a>
+<br><a data-href="Multiprexing e Demultiprexing" href="sistemi-e-reti\multiprexing-e-demultiprexing.html" class="internal-link" target="_self" rel="noopener nofollow">Multiprexing e Demultiprexing</a>
+<br><a data-href="NAT e PAT" href="sistemi-e-reti\nat-e-pat.html" class="internal-link" target="_self" rel="noopener nofollow">NAT e PAT</a>
+<br><a data-href="Pacchetti ICMP" href="sistemi-e-reti\pacchetti-icmp.html" class="internal-link" target="_self" rel="noopener nofollow">Pacchetti ICMP</a>
 <br><a data-href="Protocolli IGP" href="sistemi-e-reti\protocolli-igp.html" class="internal-link" target="_self" rel="noopener nofollow">Protocolli IGP</a>
+<br><a data-href="Pacchetti ICMP" href="sistemi-e-reti\pacchetti-icmp.html" class="internal-link" target="_self" rel="noopener nofollow">Pacchetti ICMP</a>
+<br><a data-href="Server SMTP" href="sistemi-e-reti\server-smtp.html" class="internal-link" target="_self" rel="noopener nofollow">Server SMTP</a>
 <br><a data-href="Wireshark" href="sistemi-e-reti\wireshark.html" class="internal-link" target="_self" rel="noopener nofollow">Wireshark</a>
-<br><br>
+]]></description><link>sistemi-e-reti\sistemi-e-reti.html</link><guid isPermaLink="false">Sistemi e reti/Sistemi e reti.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 12:35:01 GMT</pubDate></item><item><title><![CDATA[Gli Stati Uniti nel Secondo '800]]></title><description><![CDATA[ 
+ ]]></description><link>storia\gli-stati-uniti-nel-secondo-'800.html</link><guid isPermaLink="false">Storia/Gli Stati Uniti nel Secondo '800.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:55:06 GMT</pubDate></item><item><title><![CDATA[Il Biennio rosso]]></title><description><![CDATA[ 
+ ]]></description><link>storia\il-biennio-rosso.html</link><guid isPermaLink="false">Storia/Il Biennio rosso.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 11:52:47 GMT</pubDate></item><item><title><![CDATA[La Rivoluzione Russa]]></title><description><![CDATA[ 
+ ]]></description><link>storia\la-rivoluzione-russa.html</link><guid isPermaLink="false">Storia/La Rivoluzione Russa.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 11:52:45 GMT</pubDate></item><item><title><![CDATA[Prima Guerra Mondiale]]></title><description><![CDATA[ 
+ ]]></description><link>storia\prima-guerra-mondiale.html</link><guid isPermaLink="false">Storia/Prima Guerra Mondiale.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 11:52:38 GMT</pubDate></item><item><title><![CDATA[Storia]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Gli Stati Uniti nel Secondo '800" href="storia\gli-stati-uniti-nel-secondo-'800.html" class="internal-link" target="_self" rel="noopener nofollow">Gli Stati Uniti nel Secondo '800</a>
 <br><a data-href="Governo Giolitti" href="storia\governo-giolitti.html" class="internal-link" target="_self" rel="noopener nofollow">Governo Giolitti</a>
-<br><a data-href="Patto Gentiloni" href="storia\patto-gentiloni.html" class="internal-link" target="_self" rel="noopener nofollow">Patto Gentiloni</a>
+<br><a data-href="Il Biennio rosso" href="storia\il-biennio-rosso.html" class="internal-link" target="_self" rel="noopener nofollow">Il Biennio rosso</a>
 <br><a data-href="L'Europa nel Secondo '800" href="storia\l'europa-nel-secondo-'800.html" class="internal-link" target="_self" rel="noopener nofollow">L'Europa nel Secondo '800</a>
-<br><a data-href="Gli Stati Unici nel Secondo '800" href="storia\gli-stati-unici-nel-secondo-'800.html" class="internal-link" target="_self" rel="noopener nofollow">Gli Stati Unici nel Secondo '800</a>
-<br><br>
+<br><a data-href="La Rivoluzione Russa" href="storia\la-rivoluzione-russa.html" class="internal-link" target="_self" rel="noopener nofollow">La Rivoluzione Russa</a>
+<br><a data-href="Patto Gentiloni" href="storia\patto-gentiloni.html" class="internal-link" target="_self" rel="noopener nofollow">Patto Gentiloni</a>
+<br><a data-href="Prima Guerra Mondiale" href="storia\prima-guerra-mondiale.html" class="internal-link" target="_self" rel="noopener nofollow">Prima Guerra Mondiale</a>
+]]></description><link>storia\storia.html</link><guid isPermaLink="false">Storia/Storia.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 12:36:10 GMT</pubDate></item><item><title><![CDATA[Architettura di rete e formati per lo scambio dei dati]]></title><description><![CDATA[ 
+ ]]></description><link>tpsit\architettura-di-rete-e-formati-per-lo-scambio-dei-dati.html</link><guid isPermaLink="false">TPSIT/Architettura di rete e formati per lo scambio dei dati.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 11:52:28 GMT</pubDate></item><item><title><![CDATA[TPSIT]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Architettura di rete e formati per lo scambio dei dati" href="tpsit\architettura-di-rete-e-formati-per-lo-scambio-dei-dati.html" class="internal-link" target="_self" rel="noopener nofollow">Architettura di rete e formati per lo scambio dei dati</a>
 <br><a data-href="Sistemi Distribuiti" href="tpsit\sistemi-distribuiti.html" class="internal-link" target="_self" rel="noopener nofollow">Sistemi Distribuiti</a>
 <br><a data-href="Socket" href="tpsit\socket.html" class="internal-link" target="_self" rel="noopener nofollow">Socket</a>
-<br><br><br>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Mon, 02 Dec 2024 18:14:45 GMT</pubDate></item><item><title><![CDATA[Collegamenti]]></title><description><![CDATA[ 
+]]></description><link>tpsit\tpsit.html</link><guid isPermaLink="false">TPSIT/TPSIT.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 12:36:44 GMT</pubDate></item><item><title><![CDATA[<a data-href="Inglese" href="inglese/inglese.html" class="internal-link" target="_self" rel="noopener nofollow">Inglese</a>]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 31 Dec 2024 12:30:53 GMT</pubDate></item><item><title><![CDATA[Collegamenti]]></title><description><![CDATA[ 
  <br><br><br>
 <br><a data-href="The Suffragettes Movement" href="inglese\the-suffragettes-movement.html" class="internal-link" target="_self" rel="noopener nofollow">The Suffragettes Movement</a>
 <br><br>
@@ -79,8 +113,7 @@
  ]]></description><link>italiano\la-nascita-della-poesia-moderna.html</link><guid isPermaLink="false">Italiano/La nascita della poesia moderna.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:52:56 GMT</pubDate></item><item><title><![CDATA[Lev Tolstoj]]></title><description><![CDATA[ 
  ]]></description><link>italiano\lev-tolstoj.html</link><guid isPermaLink="false">Italiano/Lev Tolstoj.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:52:42 GMT</pubDate></item><item><title><![CDATA[Derivate]]></title><description><![CDATA[ 
  ]]></description><link>matematica\derivate.html</link><guid isPermaLink="false">Matematica/Derivate.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:53:19 GMT</pubDate></item><item><title><![CDATA[Integrali]]></title><description><![CDATA[ 
- ]]></description><link>matematica\integrali.html</link><guid isPermaLink="false">Matematica/Integrali.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:53:12 GMT</pubDate></item><item><title><![CDATA[Funzioni]]></title><description><![CDATA[ 
- ]]></description><link>sistemi-e-reti\funzioni.html</link><guid isPermaLink="false">Sistemi e reti/Funzioni.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:53:17 GMT</pubDate></item><item><title><![CDATA[Modello ISO-OSI]]></title><description><![CDATA[ 
+ ]]></description><link>matematica\integrali.html</link><guid isPermaLink="false">Matematica/Integrali.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:53:12 GMT</pubDate></item><item><title><![CDATA[Modello ISO-OSI]]></title><description><![CDATA[ 
  ]]></description><link>sistemi-e-reti\modello-iso-osi.html</link><guid isPermaLink="false">Sistemi e reti/Modello ISO-OSI.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:59:16 GMT</pubDate></item><item><title><![CDATA[Modello TCP-IP]]></title><description><![CDATA[ 
  ]]></description><link>sistemi-e-reti\modello-tcp-ip.html</link><guid isPermaLink="false">Sistemi e reti/Modello TCP-IP.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:59:13 GMT</pubDate></item><item><title><![CDATA[Multiprexing e Demultiprexing]]></title><description><![CDATA[ 
  ]]></description><link>sistemi-e-reti\multiprexing-e-demultiprexing.html</link><guid isPermaLink="false">Sistemi e reti/Multiprexing e Demultiprexing.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:54:09 GMT</pubDate></item><item><title><![CDATA[NAT e PAT]]></title><description><![CDATA[ 
@@ -88,8 +121,7 @@
  ]]></description><link>sistemi-e-reti\pacchetti-icmp.html</link><guid isPermaLink="false">Sistemi e reti/Pacchetti ICMP.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:38:21 GMT</pubDate></item><item><title><![CDATA[Protocolli IGP]]></title><description><![CDATA[ 
  ]]></description><link>sistemi-e-reti\protocolli-igp.html</link><guid isPermaLink="false">Sistemi e reti/Protocolli IGP.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:54:20 GMT</pubDate></item><item><title><![CDATA[Server SMTP]]></title><description><![CDATA[ 
  ]]></description><link>sistemi-e-reti\server-smtp.html</link><guid isPermaLink="false">Sistemi e reti/Server SMTP.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:38:28 GMT</pubDate></item><item><title><![CDATA[Wireshark]]></title><description><![CDATA[ 
- ]]></description><link>sistemi-e-reti\wireshark.html</link><guid isPermaLink="false">Sistemi e reti/Wireshark.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:54:22 GMT</pubDate></item><item><title><![CDATA[Gli Stati Unici nel Secondo '800]]></title><description><![CDATA[ 
- ]]></description><link>storia\gli-stati-unici-nel-secondo-'800.html</link><guid isPermaLink="false">Storia/Gli Stati Unici nel Secondo '800.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:55:06 GMT</pubDate></item><item><title><![CDATA[Governo Giolitti]]></title><description><![CDATA[ 
+ ]]></description><link>sistemi-e-reti\wireshark.html</link><guid isPermaLink="false">Sistemi e reti/Wireshark.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:54:22 GMT</pubDate></item><item><title><![CDATA[Governo Giolitti]]></title><description><![CDATA[ 
  ]]></description><link>storia\governo-giolitti.html</link><guid isPermaLink="false">Storia/Governo Giolitti.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:54:54 GMT</pubDate></item><item><title><![CDATA[L'Europa nel Secondo '800]]></title><description><![CDATA[ 
  ]]></description><link>storia\l'europa-nel-secondo-'800.html</link><guid isPermaLink="false">Storia/L'Europa nel Secondo '800.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:55:03 GMT</pubDate></item><item><title><![CDATA[Patto Gentiloni]]></title><description><![CDATA[ 
  ]]></description><link>storia\patto-gentiloni.html</link><guid isPermaLink="false">Storia/Patto Gentiloni.md</guid><dc:creator><![CDATA[Gabriele Bovina]]></dc:creator><pubDate>Tue, 05 Nov 2024 17:54:58 GMT</pubDate></item><item><title><![CDATA[Sistemi Distribuiti]]></title><description><![CDATA[ 

@@ -1,35 +1,51 @@
 {
   "vaultName": "Collegamenti Maturità",
-  "lastExport": 1733163303919,
+  "lastExport": 1735648904543,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "Agganci/Prigioni.md",
+    "Educazione Civica/118.md",
+    "Educazione Civica/AVIS.md",
+    "Educazione Civica/Educazione Civica.md",
     "Educazione Civica/Film Campo di Battaglia.md",
+    "Ginnastica/Ginnastica.md",
     "GPOI/Elementi di economia e organizzazione aziendale - Le strutture organizzative.md",
+    "GPOI/GPOI.md",
     "GPOI/L’informazione e l’organizzazione.md",
+    "GPOI/Le prestazioni dei processi aziendali.md",
     "GPOI/Marketing di base e rapporto con i fornitori, outsourcing.md",
     "GPOI/Micro e macrostruttura.md",
+    "Informatica/Informatica.md",
     "Informatica/Linguaggio PHP.md",
     "Informatica/Modello ER.md",
+    "Informatica/Modello Relazionale.md",
+    "Informatica/PhpMyAdmin.md",
+    "Inglese/Inglese.md",
     "Inglese/Oscar Wilde, The Picture of Dorian Gray.md",
+    "Inglese/The American Civil Rights movement.md",
     "Inglese/The Suffragettes Movement.md",
     "Inglese/XIX Century in UK.md",
     "Italiano/Emile Zola.md",
     "Italiano/Giosue Carducci.md",
     "Italiano/Giovanni Pascoli.md",
     "Italiano/Giovanni Verga.md",
+    "Italiano/Il Futurismo.md",
     "Italiano/Il romanzo di fine Ottocento in Europa.md",
+    "Italiano/Italiano.md",
     "Italiano/La nascita della poesia moderna.md",
     "Italiano/Lev Tolstoj.md",
     "Matematica/Derivate.md",
+    "Matematica/Funzioni.md",
     "Matematica/Integrali.md",
+    "Matematica/Matematica.md",
     "Resources/Oscar Wilde.pdf",
     "Resources/The Suffragettes.pdf",
     "Resources/XIX CENTURY IN THE UK.pdf",
-    "Sistemi e reti/Funzioni.md",
+    "Sistemi e reti/DHCP.md",
+    "Sistemi e reti/DNS.md",
     "Sistemi e reti/Modello ISO-OSI.md",
     "Sistemi e reti/Modello TCP-IP.md",
     "Sistemi e reti/Multiprexing e Demultiprexing.md",
@@ -37,13 +53,20 @@
     "Sistemi e reti/Pacchetti ICMP.md",
     "Sistemi e reti/Protocolli IGP.md",
     "Sistemi e reti/Server SMTP.md",
+    "Sistemi e reti/Sistemi e reti.md",
     "Sistemi e reti/Wireshark.md",
-    "Storia/Gli Stati Unici nel Secondo '800.md",
+    "Storia/Gli Stati Uniti nel Secondo '800.md",
     "Storia/Governo Giolitti.md",
+    "Storia/Il Biennio rosso.md",
     "Storia/L'Europa nel Secondo '800.md",
+    "Storia/La Rivoluzione Russa.md",
     "Storia/Patto Gentiloni.md",
+    "Storia/Prima Guerra Mondiale.md",
+    "Storia/Storia.md",
+    "TPSIT/Architettura di rete e formati per lo scambio dei dati.md",
     "TPSIT/Sistemi Distribuiti.md",
     "TPSIT/Socket.md",
+    "TPSIT/TPSIT.md",
     "index.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -173,91 +196,91 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -269,86 +292,86 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1733163303919,
-      "sourceSize": 40366,
+      "modifiedTime": 1735648904543,
+      "sourceSize": 57508,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1733163303919,
-      "sourceSize": 3264,
+      "modifiedTime": 1735648904543,
+      "sourceSize": 4957,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1733163303919,
-      "sourceSize": 131107,
+      "modifiedTime": 1735648904543,
+      "sourceSize": 131118,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1733163303919,
-      "sourceSize": 1425,
+      "modifiedTime": 1735648904543,
+      "sourceSize": 495,
       "exportedPath": "index.html",
       "dependencies": []
     },
@@ -454,12 +477,6 @@
       "exportedPath": "matematica/integrali.html",
       "dependencies": []
     },
-    "Sistemi e reti/Funzioni.md": {
-      "modifiedTime": 1730829644676,
-      "sourceSize": 0,
-      "exportedPath": "sistemi-e-reti/funzioni.html",
-      "dependencies": []
-    },
     "Sistemi e reti/Modello ISO-OSI.md": {
       "modifiedTime": 1730829644676,
       "sourceSize": 0,
@@ -508,12 +525,6 @@
       "exportedPath": "sistemi-e-reti/wireshark.html",
       "dependencies": []
     },
-    "Storia/Gli Stati Unici nel Secondo '800.md": {
-      "modifiedTime": 1730829644676,
-      "sourceSize": 0,
-      "exportedPath": "storia/gli-stati-unici-nel-secondo-'800.html",
-      "dependencies": []
-    },
     "Storia/Governo Giolitti.md": {
       "modifiedTime": 1730829644676,
       "sourceSize": 0,
@@ -545,15 +556,165 @@
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 719576,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1733163303919,
+      "modifiedTime": 1735648904543,
       "sourceSize": 21943,
       "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "Educazione Civica/118.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "educazione-civica/118.html",
+      "dependencies": []
+    },
+    "Educazione Civica/AVIS.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "educazione-civica/avis.html",
+      "dependencies": []
+    },
+    "Educazione Civica/Educazione Civica.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 50,
+      "exportedPath": "educazione-civica/educazione-civica.html",
+      "dependencies": []
+    },
+    "Ginnastica/Ginnastica.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "ginnastica/ginnastica.html",
+      "dependencies": []
+    },
+    "GPOI/GPOI.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 263,
+      "exportedPath": "gpoi/gpoi.html",
+      "dependencies": []
+    },
+    "GPOI/Le prestazioni dei processi aziendali.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "gpoi/le-prestazioni-dei-processi-aziendali.html",
+      "dependencies": []
+    },
+    "Informatica/Informatica.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 80,
+      "exportedPath": "informatica/informatica.html",
+      "dependencies": []
+    },
+    "Informatica/Modello Relazionale.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "informatica/modello-relazionale.html",
+      "dependencies": []
+    },
+    "Informatica/PhpMyAdmin.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "informatica/phpmyadmin.html",
+      "dependencies": []
+    },
+    "Inglese/Inglese.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 142,
+      "exportedPath": "inglese/inglese.html",
+      "dependencies": []
+    },
+    "Inglese/The American Civil Rights movement.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "inglese/the-american-civil-rights-movement.html",
+      "dependencies": []
+    },
+    "Italiano/Il Futurismo.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "italiano/il-futurismo.html",
+      "dependencies": []
+    },
+    "Italiano/Italiano.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 202,
+      "exportedPath": "italiano/italiano.html",
+      "dependencies": []
+    },
+    "Matematica/Funzioni.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "matematica/funzioni.html",
+      "dependencies": []
+    },
+    "Matematica/Matematica.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 45,
+      "exportedPath": "matematica/matematica.html",
+      "dependencies": []
+    },
+    "Sistemi e reti/DHCP.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "sistemi-e-reti/dhcp.html",
+      "dependencies": []
+    },
+    "Sistemi e reti/DNS.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "sistemi-e-reti/dns.html",
+      "dependencies": []
+    },
+    "Sistemi e reti/Sistemi e reti.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 212,
+      "exportedPath": "sistemi-e-reti/sistemi-e-reti.html",
+      "dependencies": []
+    },
+    "Storia/Gli Stati Uniti nel Secondo '800.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "storia/gli-stati-uniti-nel-secondo-'800.html",
+      "dependencies": []
+    },
+    "Storia/Il Biennio rosso.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "storia/il-biennio-rosso.html",
+      "dependencies": []
+    },
+    "Storia/La Rivoluzione Russa.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "storia/la-rivoluzione-russa.html",
+      "dependencies": []
+    },
+    "Storia/Prima Guerra Mondiale.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "storia/prima-guerra-mondiale.html",
+      "dependencies": []
+    },
+    "Storia/Storia.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 193,
+      "exportedPath": "storia/storia.html",
+      "dependencies": []
+    },
+    "TPSIT/Architettura di rete e formati per lo scambio dei dati.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 0,
+      "exportedPath": "tpsit/architettura-di-rete-e-formati-per-lo-scambio-dei-dati.html",
+      "dependencies": []
+    },
+    "TPSIT/TPSIT.md": {
+      "modifiedTime": 1735648904543,
+      "sourceSize": 99,
+      "exportedPath": "tpsit/tpsit.html",
       "dependencies": []
     }
   }
